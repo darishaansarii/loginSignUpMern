@@ -1,0 +1,1 @@
+export const Base_Uri = "https://login-sign-up-mern.vercel.app/";
